@@ -183,7 +183,7 @@ Wijzigingen aan de tweede woning moeten dus worden aangebracht op de server van 
 
 **Resultaat:** één Companion-app op de telefoon, twee afzonderlijke Home Assistant-servers en één beheerder die beide installaties kan onderhouden.
 
-Nog een praktisch punt: de externe URL van Nabu Casa is persoonlijk. De eigenaar hoeft die alleen aan jou te verstrekken om de server toe te voegen; het is niet nodig om zijn wachtwoord met je te delen. Je gebruikt het eigen account dat hij voor je aanmaakt.
+Nog een puntje: de externe URL van Nabu Casa is persoonlijk. De eigenaar hoeft die alleen aan jou te verstrekken om de server toe te voegen; het is niet nodig om zijn wachtwoord met je te delen. Je gebruikt het eigen account dat hij voor je aanmaakt.
 
 
 ## Licentie en gebruiksvoorwaarden
