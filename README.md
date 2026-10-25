@@ -1,7 +1,5 @@
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-2026%2B-blue.svg)
 ![Documentation](https://img.shields.io/badge/Home%20Assistant-Documentation-success.svg)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
 
 # Handleiding – Twee Home Assistant-installaties beheren met één telefoon
 
@@ -188,11 +186,11 @@ Nog een puntje: de externe URL van Nabu Casa is persoonlijk. De eigenaar hoeft d
 
 ## Licentie en gebruiksvoorwaarden
 
-Deze handleiding mag vrij worden gebruikt en aangepast voor persoonlijk gebruik. Het gebruik van deze handleiding geschiedt volledig op eigen risico. De auteur aanvaardt geen aansprakelijkheid voor eventuele schade, storingen of andere gevolgen die voortvloeien uit het gebruik of de aanpassing ervan.
+Deze handleiding mag vrij worden gebruikt en aangepast voor eigen gebruik.
 
-Bij publicatie, verspreiding of het delen van deze handleiding, of van aangepaste versies daarvan, wordt het op prijs gesteld dat de oorspronkelijke auteur wordt vermeld en dat, waar mogelijk, wordt verwezen naar de oorspronkelijke publicatie of repository.
+Bij het publiceren, verspreiden of delen van deze handleiding, of van geheel of gedeeltelijk daarop gebaseerde aangepaste versies, is bronvermelding verplicht. Daarbij moet de oorspronkelijke auteur worden vermeld en moet, waar redelijkerwijs mogelijk, een verwijzing naar de oorspronkelijke repository worden opgenomen.
 
-Het is niet toegestaan om deze handleiding of aangepaste versies daarvan zonder duidelijke bronvermelding als eigen oorspronkelijk werk te presenteren.
+Het is niet toegestaan deze handleiding of afgeleide versies als volledig eigen oorspronkelijk werk te presenteren zonder de oorspronkelijke auteur te erkennen.
 
-
+Deze handleiding wordt aangeboden zonder enige garantie. Gebruik en aanpassing geschieden op eigen risico. Voor zover wettelijk toegestaan aanvaardt de auteur geen aansprakelijkheid voor schade die voortvloeit uit het gebruik of de aanpassing ervan.
 
