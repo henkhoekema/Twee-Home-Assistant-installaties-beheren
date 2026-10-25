@@ -1,3 +1,8 @@
+![Home Assistant](https://img.shields.io/badge/Home%20Assistant-2026%2B-blue.svg)
+![Manual](https://img.shields.io/badge/Home%20Assistant-Manual-success.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+
 # Handleiding – Twee Home Assistant-installaties beheren met één telefoon
 
 **Doel:** de Home Assistant van een tweede woning beheren vanuit de bestaande Home Assistant Companion-app, zonder de twee installaties aan elkaar te koppelen.
