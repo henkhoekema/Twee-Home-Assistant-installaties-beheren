@@ -181,5 +181,13 @@ Wijzigingen aan de tweede woning moeten dus worden aangebracht op de server van 
 Nog een praktisch punt: de externe URL van Nabu Casa is persoonlijk. De eigenaar hoeft die alleen aan jou te verstrekken om de server toe te voegen; het is niet nodig om zijn wachtwoord met je te delen. Je gebruikt het eigen account dat hij voor je aanmaakt.
 
 
+## Licentie en gebruiksvoorwaarden
+
+Deze handleiding mag vrij worden gebruikt en aangepast voor persoonlijk gebruik. Het gebruik van deze handleiding geschiedt volledig op eigen risico. De auteur aanvaardt geen aansprakelijkheid voor eventuele schade, storingen of andere gevolgen die voortvloeien uit het gebruik of de aanpassing ervan.
+
+Bij publicatie, verspreiding of het delen van deze handleiding, of van aangepaste versies daarvan, wordt het op prijs gesteld dat de oorspronkelijke auteur wordt vermeld en dat, waar mogelijk, wordt verwezen naar de oorspronkelijke publicatie of repository.
+
+Het is niet toegestaan om deze handleiding of aangepaste versies daarvan zonder duidelijke bronvermelding als eigen oorspronkelijk werk te presenteren.
+
 
 
