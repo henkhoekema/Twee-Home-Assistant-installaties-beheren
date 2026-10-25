@@ -1,5 +1,5 @@
 ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-2026%2B-blue.svg)
-![Manual](https://img.shields.io/badge/Home%20Assistant-Manual-success.svg)
+![Documentation](https://img.shields.io/badge/Home%20Assistant-Documentation-success.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 
