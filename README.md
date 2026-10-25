@@ -1,0 +1,1 @@
+# Handleidig-2-x-Home-Assistant
