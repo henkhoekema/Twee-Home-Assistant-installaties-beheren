@@ -9,7 +9,7 @@ De handleiding bestaat uit twee delen: eerst de voorbereiding op zijn/haar (eige
 daarna het toevoegen van zijn installatie aan jouw (beheerder) bestaande Android-app.
 
 De uitgangspunten zijn dat jullie een aantal kilometers uit elkaar wonen, zijn Home Assistant al
-op afstand bereikbaar is via Nabu Casa / DuckDNS of een andere aanbieder, ik ga hier uit van Nabu Casa, jij een eigen beheerdersaccount krijgt en beide
+op afstand bereikbaar is via Nabu Casa / DuckDNS of een andere aanbieder -ik ga hier uit van Nabu Casa-, jij een eigen beheerdersaccount krijgt en beide
 installaties volledig gescheiden blijven.
 Voor het toevoegen van een tweede server is geen koppeling tussen de twee Home Assistant-installaties nodig.
 
